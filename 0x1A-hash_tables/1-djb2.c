@@ -2,8 +2,7 @@
 
 /**
  * hash_djb2 - function to compute hash of 'str' using djb2
- * @str: string to hash
- *   
+ * @str: string to hash   
  * Return: value of 64 bits hash
 */
 
